@@ -1,0 +1,13 @@
+C:\Users\Redou\source\repos\practicum-4\practicum4\obj\Debug\netcoreapp3.1\practicum4.csprojAssemblyReference.cache
+C:\Users\Redou\source\repos\practicum-4\practicum4\obj\Debug\netcoreapp3.1\practicum4.csproj.CoreCompileInputs.cache
+C:\Users\Redou\source\repos\practicum-4\practicum4\obj\Debug\netcoreapp3.1\practicum4.AssemblyInfoInputs.cache
+C:\Users\Redou\source\repos\practicum-4\practicum4\obj\Debug\netcoreapp3.1\practicum4.AssemblyInfo.cs
+C:\Users\Redou\source\repos\practicum-4\practicum4\bin\Debug\netcoreapp3.1\practicum4.exe
+C:\Users\Redou\source\repos\practicum-4\practicum4\bin\Debug\netcoreapp3.1\practicum4.deps.json
+C:\Users\Redou\source\repos\practicum-4\practicum4\bin\Debug\netcoreapp3.1\practicum4.runtimeconfig.json
+C:\Users\Redou\source\repos\practicum-4\practicum4\bin\Debug\netcoreapp3.1\practicum4.runtimeconfig.dev.json
+C:\Users\Redou\source\repos\practicum-4\practicum4\bin\Debug\netcoreapp3.1\practicum4.dll
+C:\Users\Redou\source\repos\practicum-4\practicum4\bin\Debug\netcoreapp3.1\practicum4.pdb
+C:\Users\Redou\source\repos\practicum-4\practicum4\obj\Debug\netcoreapp3.1\practicum4.dll
+C:\Users\Redou\source\repos\practicum-4\practicum4\obj\Debug\netcoreapp3.1\practicum4.pdb
+C:\Users\Redou\source\repos\practicum-4\practicum4\obj\Debug\netcoreapp3.1\practicum4.genruntimeconfig.cache
